@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Uu]nity[Gg]enerated/
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]pen[Ss]ource/
+[Uu]ser[Ss]ettings/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.consulo/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.tmp
+
+.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DSStore?
+.
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# Builds       #
+# ============ #
+*.apk
+*.aab
+*.unitypackage
+
+# ============ #
+# for others   #
+# ============ #
+
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
